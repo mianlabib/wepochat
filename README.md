@@ -38,4 +38,4 @@ If you find a bug in WepoChat, please report it to the issue tracker.
 
 **Contacting the WepoChat team**
 
-If you have any questions or suggestions, please contact the WepoChat team at [email protected]
+If you have any questions or suggestions, please contact the WepoChat team at <a href="mailto:info@wepochat.com">info@wepochat.com</a>
